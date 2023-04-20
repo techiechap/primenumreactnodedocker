@@ -15,7 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React easy pisy
+          <p>
+            By CloudKarma !
+          </p>
         </a>
       </header>
     </div>
